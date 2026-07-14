@@ -27,6 +27,7 @@ Colección curada de recursos y proyectos de **Inteligencia Artificial**: modelo
 ## 🛠️ Herramientas prácticas
 - [AutoGPT](https://github.com/Torantulino/Auto-GPT) → Agente autónomo para tareas complejas.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) → Ejemplo de agente IA minimalista.
+- [Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay) → Relay local y de código abierto para compartir flujos restringidos de Claude Code y Codex sin sacar del equipo anfitrión los prompts, credenciales ni dependencias.
 - [OpenAI Whisper](https://github.com/openai/whisper) → Reconocimiento de voz con IA.
 
 ---
