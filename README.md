@@ -28,6 +28,7 @@ Colección curada de recursos y proyectos de **Inteligencia Artificial**: modelo
 - [AutoGPT](https://github.com/Torantulino/Auto-GPT) → Agente autónomo para tareas complejas.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) → Ejemplo de agente IA minimalista.
 - [OpenAI Whisper](https://github.com/openai/whisper) → Reconocimiento de voz con IA.
+- [YingTu](https://yingtu.ai/en) → Playground en el navegador para probar rutas API de imagen y vídeo, prompts, imágenes de referencia, estado de tareas y descargas antes de integrarlas.
 
 ---
 
