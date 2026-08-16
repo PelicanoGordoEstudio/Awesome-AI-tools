@@ -27,6 +27,7 @@ Colección curada de recursos y proyectos de **Inteligencia Artificial**: modelo
 ## 🛠️ Herramientas prácticas
 - [AutoGPT](https://github.com/Torantulino/Auto-GPT) → Agente autónomo para tareas complejas.
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) → Ejemplo de agente IA minimalista.
+- [Agent QA](https://github.com/vostride/agent-qa) → Harness de QA con código fuente disponible para definir, ejecutar y analizar pruebas web y móviles en lenguaje natural.
 - [OpenAI Whisper](https://github.com/openai/whisper) → Reconocimiento de voz con IA.
 
 ---
